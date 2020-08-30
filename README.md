@@ -15,8 +15,6 @@ Practical tests using apollo and graphql
 * `npm start`
 * running `http://localhost:3000`
 
-## Want to learn more about React + GraphQL + Apollo?
-
 
 ### Send messages with mutation in playground: http://localhost:8000
 
